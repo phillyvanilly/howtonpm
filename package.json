@@ -1,0 +1,21 @@
+{
+    "name": "palindome_package",
+    "version": "0.0.0",
+    "description": "package for palindrome",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js",
+    "repository": {
+            "type": "git",
+            "url": "https://github.com/phillyvanilly/howtonpm.git"
+        }
+    },
+    "keywords": [
+        "palindrome"
+    ],
+    "author": "phillip guinart",
+    "license": "MIT",
+    "dependencies": {
+        "@linclark/pkg": "^1.0.2"
+    }
+}
